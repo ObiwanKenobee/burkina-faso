@@ -101,7 +101,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 ## Contact
-For inquiries or collaborations, please contact [Your Email Address].
+For inquiries or collaborations, please contact eugeneochako20@gmail.com.
 
 ---
 
